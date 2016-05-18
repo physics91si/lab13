@@ -15,7 +15,7 @@ class CalcTest(unittest.TestCase):
     def testSubtraction(self):
         pass
 
-    def testMultiplciation(self):
+    def testMultiplication(self):
         pass
  
     def testDivision(self):
