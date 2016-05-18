@@ -9,7 +9,7 @@ import sys
 def main():
     """Join command-line arguments and pass them to unitcalc(), then print."""
     calculation = ''.join(sys.argv[1:])
-    print calc(calculation)
+    print(calc(calculation))
 
 def calc(s):
     """Parse a string describing an operation on quantities with units."""
